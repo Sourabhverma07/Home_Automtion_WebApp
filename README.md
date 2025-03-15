@@ -1,1 +1,2 @@
-A home automation website which can monitor and control home through wesite and which is connected with firebase cloud for real time integration and data sharing.
+# Home-Automation-WebApp
+Team of five, including me, built a web &amp; Android app for remote home &amp; appliance management. Monitor &amp; control from anywhere.

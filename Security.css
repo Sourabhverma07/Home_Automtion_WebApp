@@ -22,3 +22,60 @@
 body{
     background-color: rgb(232, 232, 162);
 }
+.imgs{
+    height: 200px;
+    width: 200px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+#maindiv{
+    width: 1470px;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.Names{
+    font-size: 20px;
+    text-align: start;
+}
+.para{
+    font-size: 25px;
+    color: rgb(15, 3, 3);
+}
+body{
+    background-color: rgb(232, 232, 162);
+}
+#authorizedUsersContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Space between rows */
+    align-items: center;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Space between columns */
+}
+
+.user-card {
+    width: 150px;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.imgs {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.Names {
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
